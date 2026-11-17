@@ -1,0 +1,147 @@
+{
+  "conteudos": [
+    {
+      "tipo": "Filme",
+      "ano": 2026,
+      "posterRes": "poster_demo",
+      "cor": "#FF312E81",
+      "bannerUrl": "https://picsum.photos/id/1018/1280/720",
+      "titulo": "Além das Estrelas",
+      "descricao": "Uma expedição espacial revela os segredos de um universo desconhecido.",
+      "posterUrl": "https://picsum.photos/id/237/600/900",
+      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "genero": "Ficção científica",
+      "episodios": [],
+      "classificacao": "12",
+      "id": 1,
+      "duracao": "2h 10min",
+      "bannerRes": "banner_demo"
+    },
+    {
+      "tipo": "Série",
+      "ano": 2026,
+      "genero": "Suspense",
+      "cor": "#FF4C1D95",
+      "titulo": "Cidade Oculta",
+      "episodios": [],
+      "classificacao": "14",
+      "id": 2,
+      "duracao": "1 temporada",
+      "descricao": "Uma cidade aparentemente tranquila esconde mistérios surpreendentes."
+    },
+    {
+      "tipo": "Filme",
+      "ano": 2025,
+      "genero": "Aventura",
+      "cor": "#FF164E63",
+      "titulo": "Horizonte Azul",
+      "episodios": [],
+      "classificacao": "Livre",
+      "id": 3,
+      "duracao": "1h 48min",
+      "descricao": "Uma jornada emocionante por lugares que poucos conheceram."
+    },
+    {
+      "tipo": "Série",
+      "ano": 2026,
+      "genero": "Tecnologia",
+      "cor": "#FF1E3A8A",
+      "titulo": "Código Secreto",
+      "episodios": [],
+      "classificacao": "12",
+      "id": 4,
+      "duracao": "2 temporadas",
+      "descricao": "Um grupo de especialistas descobre uma tecnologia revolucionária."
+    },
+    {
+      "tipo": "Filme",
+      "ano": 2024,
+      "genero": "Mistério",
+      "cor": "#FF701A75",
+      "titulo": "Noites de Mistério",
+      "episodios": [],
+      "classificacao": "14",
+      "id": 5,
+      "duracao": "1h 55min",
+      "descricao": "Um acontecimento inexplicável transforma a vida de uma pequena comunidade."
+    },
+    {
+      "tipo": "Série",
+      "ano": 2025,
+      "genero": "Drama",
+      "cor": "#FF78350F",
+      "titulo": "Novos Caminhos",
+      "episodios": [],
+      "classificacao": "Livre",
+      "id": 6,
+      "duracao": "1 temporada",
+      "descricao": "Histórias de pessoas que encontram oportunidades para recomeçar."
+    },
+    {
+      "tipo": "Filme",
+      "ano": 2008,
+      "posterRes": "poster_big_buck_bunny",
+      "cor": "#FF365314",
+      "bannerUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BBB-Bunny.png",
+      "titulo": "Big Buck Bunny",
+      "descricao": "Um coelho tranquilo decide enfrentar três pequenos valentões da floresta.\n\nFilme e imagens © 2008 Blender Foundation · www.bigbuckbunny.org\nCC BY 3.0 · https://creativecommons.org/licenses/by/3.0/\nImagens via Wikimedia Commons, enquadradas para exibição.",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg",
+      "videoUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
+      "genero": "Animação",
+      "episodios": [],
+      "classificacao": "Sem classificação",
+      "id": 7,
+      "duracao": "10 min",
+      "bannerRes": "banner_big_buck_bunny"
+    },
+    {
+      "tipo": "Série",
+      "ano": 2026,
+      "genero": "Demonstração",
+      "cor": "#FF4C1D95",
+      "titulo": "LS Play \u2014 Série de testes",
+      "episodios": [
+        {
+          "numero": 1,
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "temporada": 1,
+          "titulo": "Primeiro teste de reprodução",
+          "id": 8001,
+          "duracao": "10 s",
+          "descricao": "Clipe de 10 segundos usado no primeiro teste do player."
+        },
+        {
+          "numero": 2,
+          "videoUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
+          "temporada": 1,
+          "titulo": "Teste com o curta completo",
+          "id": 8002,
+          "duracao": "9 min 57 s",
+          "descricao": "Big Buck Bunny completo para testar avanço e retomada por episódio."
+        },
+        {
+          "numero": 1,
+          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+          "temporada": 2,
+          "titulo": "Uma nova temporada",
+          "id": 8003,
+          "duracao": "10 s",
+          "descricao": "O mesmo clipe curto, com uma posição independente nesta temporada."
+        },
+        {
+          "numero": 2,
+          "temporada": 2,
+          "titulo": "Próximo teste",
+          "id": 8004,
+          "duracao": "Em breve",
+          "descricao": "Espaço reservado para um próximo vídeo demonstrativo."
+        }
+      ],
+      "classificacao": "Sem classificação",
+      "id": 8,
+      "duracao": "2 temporadas",
+      "descricao": "Uma série demonstrativa para testar temporadas, episódios e retomada. Os episódios reutilizam o clipe de teste e o curta Big Buck Bunny.\n\nVídeos © 2008 Blender Foundation · www.bigbuckbunny.org\nCC BY 3.0 · https://creativecommons.org/licenses/by/3.0/"
+    }
+  ],
+  "versao": 1
+}
