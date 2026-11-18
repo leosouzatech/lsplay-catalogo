@@ -1,254 +1,199 @@
 {
   "conteudos": [
     {
-      "tipo": "Filme",
-      "ano": 2016,
-      "posterRes": "poster_demo",
-      "cor": "#FF312E81",
-      "posterUrl": "https://github.com/leosouzatech/lsplay-catalogo/blob/main/estrelas_alem_do_tempo.jpg?raw=true",
-      "bannerUrl": "https://github.com/leosouzatech/lsplay-catalogo/blob/main/banner_estrelas_alem_do_tempo.png?raw=true",
-      "titulo": "Estrelas Alem do Tempo",
-      "descricao": "Esta história incrível, que nunca foi contada, sobre Katherine Johnson (Taraji P. Henson), Dorothy Vaughan (Octavia Spencer) & Mary Jackson (Janelle Monae)— negras brilhantes que trabalharam para a NASA, e que serviram como o cérebro por trás de uma das maiores operações da história: o lançamento do astronauta John Glenn em órbita. Esta conquista incrível surpreendeu o mundo e inspirou gerações a terem ambições.",
-      "videoUrl": "https://youtu.be/wx3PVtrU-Os",
-      "genero": "Drama, História, Biografia",
-      "episodios": [],
-      "classificacao": "10",
       "id": 1,
-      "duracao": "2h 09min",
-      "bannerRes": "banner_demo"
-    },
-    {
+      "titulo": "Big Buck Bunny",
+      "genero": "Animação / Comédia",
       "tipo": "Filme",
-      "ano": 2025,
-      "genero": "Aventura",
-      "cor": "#FF164E63",
-      "titulo": "Horizonte Azul 2",
-      "episodios": [],
-      "classificacao": "Livre",
-      "id": 3,
-      "duracao": "1h 48min",
-      "descricao": "Uma jornada emocionante por lugares que poucos conheceram.",
-      "posterUrl": "https://picsum.photos/id/1016/400/600",
-      "bannerUrl": "https://picsum.photos/id/1016/1200/675"
-    },
-    {
-      "tipo": "Série",
-      "ano": 2026,
-      "genero": "Tecnologia",
-      "cor": "#FF1E3A8A",
-      "titulo": "Código Secreto 2",
-      "episodios": [],
-      "classificacao": "12",
-      "id": 4,
-      "duracao": "2 temporadas",
-      "descricao": "Um grupo de especialistas descobre uma tecnologia revolucionária."
-    },
-    {
-      "tipo": "Filme",
-      "ano": 2024,
-      "genero": "Mistério",
-      "cor": "#FF701A75",
-      "titulo": "Noites de Mistério",
-      "episodios": [],
-      "classificacao": "14",
-      "id": 5,
-      "duracao": "1h 55min",
-      "descricao": "Um acontecimento inexplicável transforma a vida de uma pequena comunidade."
-    },
-    {
-      "tipo": "Filme",
+      "descricao": "Um coelho enfrenta pequenos provocadores na floresta. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 3.0. Fonte: https://studio.blender.org/films/ .",
       "ano": 2008,
-      "posterRes": "poster_big_buck_bunny",
-      "cor": "#FF365314",
-      "bannerUrl": "https://atmpublicidade.com.br/lsplay/imagens/banner_big_buck_bunny.png",
-      "titulo": "Big Buck Bunny 2",
-      "descricao": "Um coelho tranquilo decide enfrentar três pequenos valentões da floresta.\n\nFilme e imagens © 2008 Blender Foundation · www.bigbuckbunny.org\nCC BY 3.0 · https://creativecommons.org/licenses/by/3.0/\nImagens via Wikimedia Commons, enquadradas para exibição.",
-      "posterUrl": "https://atmpublicidade.com.br/lsplay/imagens/poster_big_buck_bunny.jpg",
-      "videoUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
-      "genero": "Animação",
-      "episodios": [],
-      "classificacao": "Sem classificação",
-      "id": 7,
       "duracao": "10 min",
-      "bannerRes": "banner_big_buck_bunny"
+      "classificacao": "Livre",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/bf1f3fb5-b119-4f9f-9930-8e20e892b898-720.mp4",
+      "episodios": []
+    },
+    {
+      "id": 2,
+      "titulo": "Sintel",
+      "genero": "Fantasia / Aventura",
+      "tipo": "Filme",
+      "descricao": "Uma viajante procura um dragão que conheceu no passado. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 3.0. Fonte: https://studio.blender.org/films/ .",
+      "ano": 2010,
+      "duracao": "15 min",
+      "classificacao": "Livre",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/0eb052d0-fd51-43e6-aa33-ecdbf77a5d40-720.mp4",
+      "episodios": []
+    },
+    {
+      "id": 3,
+      "titulo": "Tears of Steel",
+      "genero": "Ficção científica",
+      "tipo": "Filme",
+      "descricao": "Um grupo enfrenta máquinas em uma cidade futurista. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 3.0. Fonte: https://studio.blender.org/films/ .",
+      "ano": 2012,
+      "duracao": "12 min",
+      "classificacao": "12",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/8533ea43-4271-4a57-9694-e9d0b35e1aa1-720.mp4",
+      "episodios": []
+    },
+    {
+      "id": 4,
+      "titulo": "Cosmos Laundromat: First Cycle",
+      "genero": "Fantasia / Animação",
+      "tipo": "Filme",
+      "descricao": "Uma ovelha encontra uma possibilidade inesperada de mudar sua vida. Créditos: Blender Foundation / Blender Studio. Licença: CC BY-SA 3.0 (confirmar no projeto). Fonte: https://studio.blender.org/films/ .",
+      "ano": 2015,
+      "duracao": "12 min",
+      "classificacao": "Livre",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/f507dfdc-e73e-45a4-9778-d758cbe1ce96-720.mp4",
+      "episodios": []
+    },
+    {
+      "id": 5,
+      "titulo": "Caminandes: Llamigos",
+      "genero": "Comédia / Animação",
+      "tipo": "Filme",
+      "descricao": "Duas lhamas disputam uma pequena porção de alimento. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 3.0. Fonte: https://studio.blender.org/films/ .",
+      "ano": 2016,
+      "duracao": "3 min",
+      "classificacao": "Livre",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/23f3ef79-15dc-44c5-aa45-cf92e78a4509-1080.mp4",
+      "episodios": []
+    },
+    {
+      "id": 6,
+      "titulo": "Glass Half",
+      "genero": "Comédia / Animação",
+      "tipo": "Filme",
+      "descricao": "Dois críticos de arte discutem sobre uma pintura. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 3.0. Fonte: https://studio.blender.org/films/ .",
+      "ano": 2015,
+      "duracao": "3 min",
+      "classificacao": "Livre",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/64222c8a-c4c7-4b3b-9850-7fb2078edcf6-1080.mp4",
+      "episodios": []
+    },
+    {
+      "id": 7,
+      "titulo": "Agent 327: Operation Barbershop",
+      "genero": "Ação / Comédia",
+      "tipo": "Filme",
+      "descricao": "Um agente secreto visita uma barbearia e encontra confusão. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 3.0. Fonte: https://studio.blender.org/films/ .",
+      "ano": 2017,
+      "duracao": "4 min",
+      "classificacao": "Livre",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/264ff760-803e-430e-8d81-15648e904183-804.mp4",
+      "episodios": []
+    },
+    {
+      "id": 8,
+      "titulo": "Hero",
+      "genero": "Fantasia / Animação",
+      "tipo": "Filme",
+      "descricao": "Uma aventura desenhada que explora mundos de tinta e papel. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 4.0 (confirmar no projeto). Fonte: https://studio.blender.org/films/ .",
+      "ano": 2018,
+      "duracao": "4 min",
+      "classificacao": "Livre",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/3eb93cab-79a2-4fd5-a636-d42e5c59ddea-536.mp4",
+      "episodios": []
     },
     {
       "id": 9,
-      "titulo": "Sintel",
-      "genero": "Animação e fantasia",
+      "titulo": "Spring",
+      "genero": "Fantasia / Animação",
       "tipo": "Filme",
-      "descricao": "Uma jovem parte em uma jornada à procura de um pequeno dragão.\n\nFilme e imagens © Blender Foundation · durian.blender.org\nCC BY 3.0 · https://creativecommons.org/licenses/by/3.0/\nImagens via Wikimedia Commons, enquadradas para exibição.",
-      "ano": 2010,
-      "duracao": "15 min",
-      "classificacao": "Sem classificação",
-      "cor": "#FF7C2D12",
-      "posterUrl": "https://atmpublicidade.com.br/lsplay/imagens/poster_sintel.jpg",
-      "bannerUrl": "https://atmpublicidade.com.br/lsplay/imagens/banner_sintel.jpg",
-      "videoUrl": "https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4",
+      "descricao": "Uma jovem pastora e seu cão encontram espíritos da natureza. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 4.0. Fonte: https://studio.blender.org/films/ .",
+      "ano": 2019,
+      "duracao": "8 min",
+      "classificacao": "Livre",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/3d95fb3d-c866-42c8-9db1-fe82f48ccb95-720.mp4",
       "episodios": []
     },
     {
       "id": 10,
-      "titulo": "Esquadrão Classe A",
-      "genero": "Animação e fantasia",
+      "titulo": "Coffee Run",
+      "genero": "Drama / Animação",
       "tipo": "Filme",
-      "descricao": "Quatro desertores da Guerra do Vietnã, liderados por John 'Hannibal' Smith, trabalham como mercenários em defesa de causas justas.\n\nFilme e imagens © Blender Foundation · durian.blender.org\nCC BY 3.0 · https://creativecommons.org/licenses/by/3.0/\nImagens via Wikimedia Commons, enquadradas para exibição.",
-      "ano": 1983,
-      "duracao": "1h 32min",
-      "classificacao": "Sem classificação",
-      "cor": "#FF7C2D12",
-      "posterUrl": "https://atmpublicidade.com.br/lsplay/imagens/poster_esquadrao.jpg",
-      "bannerUrl": "https://atmpublicidade.com.br/lsplay/imagens/banner_esquadrao.jpg",
-      "videoUrl": "https://archive.org/details/esquadrao_classe_a/Season+1/Dublado/18100+%3D+101+102.mkv",
-      "episodios": []
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
-      "belongs_to_collection": null,
-      "budget": 15000000,
-      "genres": [
-        {
-          "id": 18,
-          "name": "Drama"
-        }
-      ],
-      "homepage": "",
-      "id": 14,
-      "imdb_id": "tt0169547",
-      "original_language": "en",
-      "original_title": "American Beauty",
-      "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
-      "popularity": 20.56,
-      "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
-      "production_companies": [
-        {
-          "id": 2721,
-          "logo_path": null,
-          "name": "Jinks/Cohen Company",
-          "origin_country": ""
-        },
-        {
-          "id": 7,
-          "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
-          "name": "DreamWorks Pictures",
-          "origin_country": "US"
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "release_date": "1999-09-15",
-      "revenue": 356296601,
-      "runtime": 122,
-      "spoken_languages": [
-        {
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "Look closer.",
-      "title": "American Beauty",
-      "video": false,
-      "vote_average": 8.0,
-      "vote_count": 8121,
-      "titulo": "American Beauty",
-      "tipo": "Filme",
-      "genero": "Drama",
-      "descricao": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
-      "ano": 1999,
-      "duracao": "2h 02min",
-      "classificacao": "Sem classificação",
-      "cor": "#FF312E81",
-      "episodios": []
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/apbg31SYrIx7dsTJNrAhQWsWdEM.jpg",
-      "belongs_to_collection": null,
-      "budget": 839727,
-      "genres": [
-        {
-          "id": 9648,
-          "name": "Mystery"
-        },
-        {
-          "id": 18,
-          "name": "Drama"
-        }
-      ],
-      "homepage": "",
-      "id": 15,
-      "imdb_id": "tt0033467",
-      "original_language": "en",
-      "original_title": "Citizen Kane",
-      "overview": "Newspaper magnate, Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
-      "popularity": 17.421,
-      "poster_path": "/9s30GrNHVWtqXqyjGNarJgW9Muj.jpg",
-      "production_companies": [
-        {
-          "id": 6,
-          "logo_path": "/n53F7K9scQWFXYbrCablqLKqJdp.png",
-          "name": "RKO Radio Pictures",
-          "origin_country": "US"
-        },
-        {
-          "id": 11447,
-          "logo_path": null,
-          "name": "Mercury Productions",
-          "origin_country": ""
-        }
-      ],
-      "production_countries": [
-        {
-          "iso_3166_1": "US",
-          "name": "United States of America"
-        }
-      ],
-      "release_date": "1941-04-17",
-      "revenue": 23217674,
-      "runtime": 119,
-      "spoken_languages": [
-        {
-          "iso_639_1": "en",
-          "name": "English"
-        }
-      ],
-      "status": "Released",
-      "tagline": "It's terrific!",
-      "title": "Citizen Kane",
-      "video": false,
-      "vote_average": 8.1,
-      "vote_count": 3153,
-      "titulo": "Citizen Kane",
-      "tipo": "Filme",
-      "genero": "Mystery / Drama",
-      "descricao": "Newspaper magnate, Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
-      "ano": 1941,
-      "duracao": "1h 59min",
-      "classificacao": "Sem classificação",
-      "cor": "#FF312E81",
-      "episodios": []
-    },
-    {
-      "id": 8005,
-      "tipo": "Filme",
-      "ano": 1983,
-      "titulo": "Esquadrão Classe A",
-      "genero": "Ação",
-      "duracao": "1h 35min",
+      "descricao": "Uma jovem revisita lembranças enquanto toma café. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 4.0. Fonte: https://studio.blender.org/films/ .",
+      "ano": 2020,
+      "duracao": "3 min",
       "classificacao": "Livre",
-      "descricao": "Quatro desertores da Guerra do Vietnã, liderados por John 'Hannibal' Smith, trabalham como mercenários em defesa de causas justas",
-      "episodios": [],
       "cor": "#FF312E81",
-      "posterUrl": "https://archive.org/services/img/esquadrao_classe_a",
-      "bannerUrl": "https://archive.org/services/img/esquadrao_classe_a",
-      "videoUrl": "https://archive.org/details/esquadrao_classe_a/Season+1/Dublado/18100+%3D+101+102.mkv"
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/ff8fe61b-026f-4f07-b66b-2a790d6f6ab1-720.mp4",
+      "episodios": []
+    },
+    {
+      "id": 11,
+      "titulo": "Sprite Fright",
+      "genero": "Comédia / Fantasia",
+      "tipo": "Filme",
+      "descricao": "Um grupo de jovens descobre criaturas surpreendentes na floresta. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 4.0. Fonte: https://studio.blender.org/films/ .",
+      "ano": 2021,
+      "duracao": "11 min",
+      "classificacao": "12",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/a69d68a5-a0e0-4a80-9d66-49f093c97aaf-720.mp4",
+      "episodios": []
+    },
+    {
+      "id": 12,
+      "titulo": "Charge",
+      "genero": "Ficção científica",
+      "tipo": "Filme",
+      "descricao": "Um homem encontra um robô em um futuro de energia escassa. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 4.0. Fonte: https://studio.blender.org/films/ .",
+      "ano": 2022,
+      "duracao": "4 min",
+      "classificacao": "Livre",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/04da454b-9893-4184-98f3-248d00625efe-1080.mp4",
+      "episodios": []
+    },
+    {
+      "id": 13,
+      "titulo": "Wing It!",
+      "genero": "Comédia / Animação",
+      "tipo": "Filme",
+      "descricao": "Uma experiência de voo vira uma aventura inesperada. Créditos: Blender Foundation / Blender Studio. Licença: CC BY 4.0. Fonte: https://studio.blender.org/films/ .",
+      "ano": 2023,
+      "duracao": "4 min",
+      "classificacao": "Livre",
+      "cor": "#FF312E81",
+      "posterUrl": null,
+      "bannerUrl": null,
+      "videoUrl": "https://video.blender.org/download/web-videos/bd0084a5-1d26-4816-ab5e-1bad9e2fb990-1080.mp4",
+      "episodios": []
     }
-  ],
-  "versao": 1
+  ]
 }
