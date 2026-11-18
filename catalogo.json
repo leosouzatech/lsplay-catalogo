@@ -2,19 +2,19 @@
   "conteudos": [
     {
       "tipo": "Filme",
-      "ano": 2026,
+      "ano": 2016,
       "posterRes": "poster_demo",
       "cor": "#FF312E81",
-      "posterUrl": "https://picsum.photos/id/1018/400/600",
-      "bannerUrl": "https://picsum.photos/id/1018/1200/675",
-      "titulo": "Além das Estrelas — Atualização online",
-      "descricao": "Uma expedição espacial revela os segredos de um universo desconhecido.",
-      "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-      "genero": "Ficção científica",
+      "posterUrl": "https://github.com/leosouzatech/lsplay-catalogo/blob/main/estrelas_alem_do_tempo.jpg?raw=true",
+      "bannerUrl": "https://github.com/leosouzatech/lsplay-catalogo/blob/main/banner_estrelas_alem_do_tempo.png?raw=true",
+      "titulo": "Estrelas Alem do Tempo",
+      "descricao": "Esta história incrível, que nunca foi contada, sobre Katherine Johnson (Taraji P. Henson), Dorothy Vaughan (Octavia Spencer) & Mary Jackson (Janelle Monae)— negras brilhantes que trabalharam para a NASA, e que serviram como o cérebro por trás de uma das maiores operações da história: o lançamento do astronauta John Glenn em órbita. Esta conquista incrível surpreendeu o mundo e inspirou gerações a terem ambições.",
+      "videoUrl": "https://youtu.be/wx3PVtrU-Os",
+      "genero": "Drama, História, Biografia",
       "episodios": [],
-      "classificacao": "12",
+      "classificacao": "10",
       "id": 1,
-      "duracao": "2h 10min",
+      "duracao": "2h 09min",
       "bannerRes": "banner_demo"
     },
     {
