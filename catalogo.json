@@ -5,10 +5,10 @@
       "ano": 2026,
       "posterRes": "poster_demo",
       "cor": "#FF312E81",
-      "bannerUrl": "https://github.com/leosouzatech/lsplay-catalogo/blob/main/banner_estrelas_alem_do_tempo.png",
-      "titulo": "Estrelas Alem do Tempo",
-      "descricao": "narra a história real e inspiradora de três matemáticas afro-americanas que trabalharam na NASA durante a Guerra Fria e a corrida espacial entre os Estados Unidos e a União Soviética.",
-      "posterUrl": "https://github.com/leosouzatech/lsplay-catalogo/blob/main/estrelas_alem_do_tempo.jpg",
+      "posterUrl": "https://picsum.photos/id/1018/400/600",
+      "bannerUrl": "https://picsum.photos/id/1018/1200/675",
+      "titulo": "Além das Estrelas — Atualização online",
+      "descricao": "Uma expedição espacial revela os segredos de um universo desconhecido.",
       "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
       "genero": "Ficção científica",
       "episodios": [],
@@ -16,18 +16,6 @@
       "id": 1,
       "duracao": "2h 10min",
       "bannerRes": "banner_demo"
-    },
-    {
-      "tipo": "Série",
-      "ano": 2026,
-      "genero": "Suspense",
-      "cor": "#FF4C1D95",
-      "titulo": "Cidade Oculta",
-      "episodios": [],
-      "classificacao": "14",
-      "id": 2,
-      "duracao": "1 temporada",
-      "descricao": "Uma cidade aparentemente tranquila esconde mistérios surpreendentes."
     },
     {
       "tipo": "Filme",
@@ -39,7 +27,9 @@
       "classificacao": "Livre",
       "id": 3,
       "duracao": "1h 48min",
-      "descricao": "Uma jornada emocionante por lugares que poucos conheceram."
+      "descricao": "Uma jornada emocionante por lugares que poucos conheceram.",
+      "posterUrl": "https://picsum.photos/id/1016/400/600",
+      "bannerUrl": "https://picsum.photos/id/1016/1200/675"
     },
     {
       "tipo": "Série",
@@ -66,26 +56,14 @@
       "descricao": "Um acontecimento inexplicável transforma a vida de uma pequena comunidade."
     },
     {
-      "tipo": "Série",
-      "ano": 2025,
-      "genero": "Drama",
-      "cor": "#FF78350F",
-      "titulo": "Novos Caminhos",
-      "episodios": [],
-      "classificacao": "Livre",
-      "id": 6,
-      "duracao": "1 temporada",
-      "descricao": "Histórias de pessoas que encontram oportunidades para recomeçar."
-    },
-    {
       "tipo": "Filme",
       "ano": 2008,
       "posterRes": "poster_big_buck_bunny",
       "cor": "#FF365314",
-      "bannerUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/BBB-Bunny.png",
-      "titulo": "TESTE Big Buck Bunny",
+      "bannerUrl": "https://atmpublicidade.com.br/lsplay/imagens/banner_big_buck_bunny.png",
+      "titulo": "Big Buck Bunny",
       "descricao": "Um coelho tranquilo decide enfrentar três pequenos valentões da floresta.\n\nFilme e imagens © 2008 Blender Foundation · www.bigbuckbunny.org\nCC BY 3.0 · https://creativecommons.org/licenses/by/3.0/\nImagens via Wikimedia Commons, enquadradas para exibição.",
-      "posterUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg",
+      "posterUrl": "https://atmpublicidade.com.br/lsplay/imagens/poster_big_buck_bunny.jpg",
       "videoUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
       "genero": "Animação",
       "episodios": [],
@@ -95,52 +73,181 @@
       "bannerRes": "banner_big_buck_bunny"
     },
     {
-      "tipo": "Série",
-      "ano": 2026,
-      "genero": "Demonstração",
-      "cor": "#FF4C1D95",
-      "titulo": "LS Play \u2014 Série de testes",
-      "episodios": [
+      "id": 9,
+      "titulo": "Sintel",
+      "genero": "Animação e fantasia",
+      "tipo": "Filme",
+      "descricao": "Uma jovem parte em uma jornada à procura de um pequeno dragão.\n\nFilme e imagens © Blender Foundation · durian.blender.org\nCC BY 3.0 · https://creativecommons.org/licenses/by/3.0/\nImagens via Wikimedia Commons, enquadradas para exibição.",
+      "ano": 2010,
+      "duracao": "15 min",
+      "classificacao": "Sem classificação",
+      "cor": "#FF7C2D12",
+      "posterUrl": "https://atmpublicidade.com.br/lsplay/imagens/poster_sintel.jpg",
+      "bannerUrl": "https://atmpublicidade.com.br/lsplay/imagens/banner_sintel.jpg",
+      "videoUrl": "https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4",
+      "episodios": []
+    },
+    {
+      "id": 10,
+      "titulo": "Esquadrão Classe A",
+      "genero": "Animação e fantasia",
+      "tipo": "Filme",
+      "descricao": "Quatro desertores da Guerra do Vietnã, liderados por John 'Hannibal' Smith, trabalham como mercenários em defesa de causas justas.\n\nFilme e imagens © Blender Foundation · durian.blender.org\nCC BY 3.0 · https://creativecommons.org/licenses/by/3.0/\nImagens via Wikimedia Commons, enquadradas para exibição.",
+      "ano": 1983,
+      "duracao": "1h 32min",
+      "classificacao": "Sem classificação",
+      "cor": "#FF7C2D12",
+      "posterUrl": "https://atmpublicidade.com.br/lsplay/imagens/poster_esquadrao.jpg",
+      "bannerUrl": "https://atmpublicidade.com.br/lsplay/imagens/banner_esquadrao.jpg",
+      "videoUrl": "https://archive.org/details/esquadrao_classe_a/Season+1/Dublado/18100+%3D+101+102.mkv",
+      "episodios": []
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/DztBnZaqmla2sGUW9s8AyOmskT.jpg",
+      "belongs_to_collection": null,
+      "budget": 15000000,
+      "genres": [
         {
-          "numero": 1,
-          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-          "temporada": 1,
-          "titulo": "Primeiro teste de reprodução",
-          "id": 8001,
-          "duracao": "10 s",
-          "descricao": "Clipe de 10 segundos usado no primeiro teste do player."
-        },
-        {
-          "numero": 2,
-          "videoUrl": "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
-          "temporada": 1,
-          "titulo": "Teste com o curta completo",
-          "id": 8002,
-          "duracao": "9 min 57 s",
-          "descricao": "Big Buck Bunny completo para testar avanço e retomada por episódio."
-        },
-        {
-          "numero": 1,
-          "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
-          "temporada": 2,
-          "titulo": "Uma nova temporada",
-          "id": 8003,
-          "duracao": "10 s",
-          "descricao": "O mesmo clipe curto, com uma posição independente nesta temporada."
-        },
-        {
-          "numero": 2,
-          "temporada": 2,
-          "titulo": "Próximo teste",
-          "id": 8004,
-          "duracao": "Em breve",
-          "descricao": "Espaço reservado para um próximo vídeo demonstrativo."
+          "id": 18,
+          "name": "Drama"
         }
       ],
+      "homepage": "",
+      "id": 14,
+      "imdb_id": "tt0169547",
+      "original_language": "en",
+      "original_title": "American Beauty",
+      "overview": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+      "popularity": 20.56,
+      "poster_path": "/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+      "production_companies": [
+        {
+          "id": 2721,
+          "logo_path": null,
+          "name": "Jinks/Cohen Company",
+          "origin_country": ""
+        },
+        {
+          "id": 7,
+          "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+          "name": "DreamWorks Pictures",
+          "origin_country": "US"
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "1999-09-15",
+      "revenue": 356296601,
+      "runtime": 122,
+      "spoken_languages": [
+        {
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "Look closer.",
+      "title": "American Beauty",
+      "video": false,
+      "vote_average": 8.0,
+      "vote_count": 8121,
+      "titulo": "American Beauty",
+      "tipo": "Filme",
+      "genero": "Drama",
+      "descricao": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+      "ano": 1999,
+      "duracao": "2h 02min",
       "classificacao": "Sem classificação",
-      "id": 8,
-      "duracao": "2 temporadas",
-      "descricao": "Uma série demonstrativa para testar temporadas, episódios e retomada. Os episódios reutilizam o clipe de teste e o curta Big Buck Bunny.\n\nVídeos © 2008 Blender Foundation · www.bigbuckbunny.org\nCC BY 3.0 · https://creativecommons.org/licenses/by/3.0/"
+      "cor": "#FF312E81",
+      "episodios": []
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/apbg31SYrIx7dsTJNrAhQWsWdEM.jpg",
+      "belongs_to_collection": null,
+      "budget": 839727,
+      "genres": [
+        {
+          "id": 9648,
+          "name": "Mystery"
+        },
+        {
+          "id": 18,
+          "name": "Drama"
+        }
+      ],
+      "homepage": "",
+      "id": 15,
+      "imdb_id": "tt0033467",
+      "original_language": "en",
+      "original_title": "Citizen Kane",
+      "overview": "Newspaper magnate, Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+      "popularity": 17.421,
+      "poster_path": "/9s30GrNHVWtqXqyjGNarJgW9Muj.jpg",
+      "production_companies": [
+        {
+          "id": 6,
+          "logo_path": "/n53F7K9scQWFXYbrCablqLKqJdp.png",
+          "name": "RKO Radio Pictures",
+          "origin_country": "US"
+        },
+        {
+          "id": 11447,
+          "logo_path": null,
+          "name": "Mercury Productions",
+          "origin_country": ""
+        }
+      ],
+      "production_countries": [
+        {
+          "iso_3166_1": "US",
+          "name": "United States of America"
+        }
+      ],
+      "release_date": "1941-04-17",
+      "revenue": 23217674,
+      "runtime": 119,
+      "spoken_languages": [
+        {
+          "iso_639_1": "en",
+          "name": "English"
+        }
+      ],
+      "status": "Released",
+      "tagline": "It's terrific!",
+      "title": "Citizen Kane",
+      "video": false,
+      "vote_average": 8.1,
+      "vote_count": 3153,
+      "titulo": "Citizen Kane",
+      "tipo": "Filme",
+      "genero": "Mystery / Drama",
+      "descricao": "Newspaper magnate, Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+      "ano": 1941,
+      "duracao": "1h 59min",
+      "classificacao": "Sem classificação",
+      "cor": "#FF312E81",
+      "episodios": []
+    },
+    {
+      "id": 8005,
+      "tipo": "Filme",
+      "ano": 1983,
+      "titulo": "Esquadrão Classe A",
+      "genero": "Ação",
+      "duracao": "1h 35min",
+      "classificacao": "Livre",
+      "descricao": "Quatro desertores da Guerra do Vietnã, liderados por John 'Hannibal' Smith, trabalham como mercenários em defesa de causas justas",
+      "episodios": [],
+      "cor": "#FF312E81",
+      "posterUrl": "https://archive.org/services/img/esquadrao_classe_a",
+      "bannerUrl": "https://archive.org/services/img/esquadrao_classe_a",
+      "videoUrl": "https://archive.org/details/esquadrao_classe_a/Season+1/Dublado/18100+%3D+101+102.mkv"
     }
   ],
   "versao": 1
